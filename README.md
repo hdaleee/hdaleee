@@ -1,16 +1,40 @@
-### Hi there 👋
+![Untitled-1](https://user-images.githubusercontent.com/8890754/104114713-d9b2ef80-534a-11eb-9c78-58bd90a2f716.gif)
 
-<!--
-**hdaleee/hdaleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://simpleicons.org/icons/javascript.svg" width="40px" height="40px">
+&nbsp;&nbsp;
+<img src="https://simpleicons.org/icons/react.svg" width="40px" height="40px">
+&nbsp;&nbsp;
+<img src="https://simpleicons.org/icons/redux.svg" width="40px" height="40px">
+&nbsp;&nbsp;
+<img src="https://simpleicons.org/icons/html5.svg" width="40px" height="40px">
+&nbsp;&nbsp;
+<img src="https://simpleicons.org/icons/css3.svg" width="40px" height="40px">
+&nbsp;&nbsp;
+<img src="https://simpleicons.org/icons/expo.svg" width="40px" height="40px">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+<img src="https://simpleicons.org/icons/visualstudiocode.svg" width="40px" height="40px">
+&nbsp;&nbsp;  
+<img src="https://simpleicons.org/icons/node-dot-js.svg" width="40px" height="40px">
+&nbsp;&nbsp;
+<img src="https://simpleicons.org/icons/express.svg" width="40px" height="40px">
+&nbsp;&nbsp;
+<img src="https://simpleicons.org/icons/amazonaws.svg" width="40px" height="40px">
+&nbsp;&nbsp;
+<img src="https://simpleicons.org/icons/mysql.svg" width="50px" height="50px">
+</p>
+
+
+<p align="center">
+<img src="https://simpleicons.org/icons/figma.svg" width="35px" height="35px">
+&nbsp;&nbsp;
+<img src="https://simpleicons.org/icons/adobephotoshop.svg" width="40px" height="40px">
+&nbsp;&nbsp;
+<img src="https://simpleicons.org/icons/adobeillustrator.svg" width="40px" height="40px">
+&nbsp;&nbsp;
+<img src="https://simpleicons.org/icons/adobexd.svg" width="40px" height="40px">
+</p>
