@@ -1,6 +1,6 @@
 ![Untitled-1](https://user-images.githubusercontent.com/8890754/104114713-d9b2ef80-534a-11eb-9c78-58bd90a2f716.gif)
 
-
+<!-- 
 <p align="center">
 <img src="https://simpleicons.org/icons/javascript.svg" width="40px" height="40px" alt="JavaScript">
 &nbsp;&nbsp;
@@ -14,8 +14,6 @@
 &nbsp;&nbsp;
 <img src="https://simpleicons.org/icons/expo.svg" width="40px" height="40px" alt="Expo">
 </p>
-
-
 <p align="center">
 <img src="https://simpleicons.org/icons/visualstudiocode.svg" width="40px" height="40px" alt="VSC">
 &nbsp;&nbsp;  
@@ -27,8 +25,6 @@
 &nbsp;&nbsp;
 <img src="https://simpleicons.org/icons/mysql.svg" width="50px" height="50px" alt="mySQL">
 </p>
-
-
 <p align="center">
 <img src="https://simpleicons.org/icons/figma.svg" width="35px" height="35px" alt="Figma">
 &nbsp;&nbsp;
@@ -38,3 +34,4 @@
 &nbsp;&nbsp;
 <img src="https://simpleicons.org/icons/adobexd.svg" width="40px" height="40px" alt="xd">
 </p>
+ -->
