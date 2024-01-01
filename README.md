@@ -19,44 +19,44 @@
 
 ### Stacks
 <p align="left">
-<img src="https://cdn.simpleicons.org/html5/_/white" width="32px" height="32px" alt="HTML">
+<img src="https://cdn.simpleicons.org/html5" width="32px" height="32px" alt="HTML">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/css3/_/white" width="32px" height="32px" alt="CSS">
+<img src="https://cdn.simpleicons.org/css3" width="32px" height="32px" alt="CSS">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript/_/white" width="32px" height="32px" alt="JavaScript">
+<img src="https://cdn.simpleicons.org/javascript" width="32px" height="32px" alt="JavaScript">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/typescript/_/white" width="32px" height="32px" alt="JavaScript">
+<img src="https://cdn.simpleicons.org/typescript" width="32px" height="32px" alt="JavaScript">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/react/_/white" width="32px" height="32px" alt="React">
+<img src="https://cdn.simpleicons.org/react" width="32px" height="32px" alt="React">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/redux/_/white" width="32px" height="32px" alt="Redux">
+<img src="https://cdn.simpleicons.org/redux" width="32px" height="32px" alt="Redux">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/visualstudiocode/_/white" width="32px" height="32px" alt="VSC">
-&nbsp;&nbsp;
-</p>
-
-<p align="left">
-<img src="https://cdn.simpleicons.org/socket.io/_/white" width="32px" height="32px" alt="HTML">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/ffmpeg/_/white" width="32px" height="32px" alt="HTML">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/node.js/_/white" width="32px" height="32px" alt="HTML">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/insomnia/_/white" width="32px" height="32px" alt="HTML">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/storybook/_/white" width="32px" height="32px" alt="HTML">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/zsh/_/white" width="32px" height="32px" alt="HTML">
+<img src="https://cdn.simpleicons.org/visualstudiocode" width="32px" height="32px" alt="VSC">
 &nbsp;&nbsp;
 </p>
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/figma/_/white" width="32px" height="32px" alt="Figma">
+<img src="https://cdn.simpleicons.org/socket.io" width="32px" height="32px" alt="HTML">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/adobephotoshop/_/white" width="32px" height="32px" alt="photoshop">
+<img src="https://cdn.simpleicons.org/ffmpeg" width="32px" height="32px" alt="HTML">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/adobeillustrator/_/white" width="32px" height="32px" alt="illustrator">
+<img src="https://cdn.simpleicons.org/node.js" width="32px" height="32px" alt="HTML">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/adobexd/_/white" width="32px" height="32px" alt="xd">
+<img src="https://cdn.simpleicons.org/insomnia" width="32px" height="32px" alt="HTML">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/storybook" width="32px" height="32px" alt="HTML">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/zsh" width="32px" height="32px" alt="HTML">
+&nbsp;&nbsp;
+</p>
+
+<p align="left">
+<img src="https://cdn.simpleicons.org/figma" width="32px" height="32px" alt="Figma">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/adobephotoshop" width="32px" height="32px" alt="photoshop">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/adobeillustrator" width="32px" height="32px" alt="illustrator">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/adobexd" width="32px" height="32px" alt="xd">
 </p>
  
