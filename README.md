@@ -4,12 +4,8 @@
 [![hdaleee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdaleee&hide=stars,issues&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/hdaleee/github-readme-stats)
 -->
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=hdaleee&theme=tokyonight&show_icons=true" height="180px">
-</a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdaleee&theme=tokyonight&exclude_repo=Jagi,assignment&layout=compact" height="180px">
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=hdaleee&theme=tokyonight&show_icons=true" height="180px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdaleee&theme=tokyonight&exclude_repo=Jagi,assignment&layout=compact" height="180px">
 
 <!-- 
 <p align="center">
