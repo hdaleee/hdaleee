@@ -1,5 +1,7 @@
 ![Untitled-1](https://user-images.githubusercontent.com/8890754/104114713-d9b2ef80-534a-11eb-9c78-58bd90a2f716.gif)
 
+[![hdaleee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdaleee&hide=stars,issues&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/hdaleee/github-readme-stats)
+
 <!-- 
 <p align="center">
 <img src="https://simpleicons.org/icons/javascript.svg" width="40px" height="40px" alt="JavaScript">
