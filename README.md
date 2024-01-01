@@ -1,62 +1,61 @@
-![Untitled-1](https://user-images.githubusercontent.com/8890754/104114713-d9b2ef80-534a-11eb-9c78-58bd90a2f716.gif)
-
-
-### Github Stats
 <!--
-[![hdaleee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdaleee&hide=stars,issues&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/hdaleee/github-readme-stats)
-
-[![hdaleee's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hdaleee&theme=tokyonight&exclude_repo=Jagi,assignment&layout=compact)](https://github.com/hdaleee/github-readme-stats)
+![Untitled-1](https://user-images.githubusercontent.com/8890754/104114713-d9b2ef80-534a-11eb-9c78-58bd90a2f716.gif)
 -->
 
- <a href="#" class='box' >
-  <img src="https://github-readme-stats.vercel.app/api?username=hdaleee&theme=tokyonight&show_icons=true" height="180px">
- </a>
- <a href="#" class='box' >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdaleee&theme=tokyonight&exclude_repo=Jagi,assignment&layout=compact" height="180px">
- </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=0D1117&vCenter=true&random=false&width=220&lines=%23%23%23+Github+Stats)](https://git.io/typing-svg)
 
-<p></p>
+<p>
+ <a href="#" >
+  <img src="https://github-readme-stats.vercel.app/api?username=hdaleee&show_icons=true" height="180px">
+ </a>
+ <a href="#" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdaleee&layout=compact" height="180px">
+ </a>
+ </a>
+</p>
 
-### Stacks
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=0D1117&vCenter=true&random=false&width=150&lines=%23%23%23+Stacks)](https://git.io/typing-svg)
+
 <p align="left">
-<img src="https://cdn.simpleicons.org/html5" width="32px" height="32px" alt="HTML">
+<img src="https://cdn.simpleicons.org/html5/gray/white" width="32px" height="32px" alt="HTML">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/css3" width="32px" height="32px" alt="CSS">
+<img src="https://cdn.simpleicons.org/css3/gray/white" width="32px" height="32px" alt="CSS">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript" width="32px" height="32px" alt="JavaScript">
+<img src="https://cdn.simpleicons.org/javascript/gray/white" width="32px" height="32px" alt="JavaScript">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/typescript" width="32px" height="32px" alt="JavaScript">
+<img src="https://cdn.simpleicons.org/typescript/gray/white" width="32px" height="32px" alt="JavaScript">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/react" width="32px" height="32px" alt="React">
+<img src="https://cdn.simpleicons.org/react/gray/white" width="32px" height="32px" alt="React">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/redux" width="32px" height="32px" alt="Redux">
+<img src="https://cdn.simpleicons.org/redux/gray/white" width="32px" height="32px" alt="Redux">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/visualstudiocode" width="32px" height="32px" alt="VSC">
+<img src="https://cdn.simpleicons.org/visualstudiocode/gray/white" width="32px" height="32px" alt="VSC">
 &nbsp;&nbsp;
 </p>
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/socket.io" width="32px" height="32px" alt="HTML">
+<img src="https://cdn.simpleicons.org/socket.io/gray/white" width="32px" height="32px" alt="HTML">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/ffmpeg" width="32px" height="32px" alt="HTML">
+<img src="https://cdn.simpleicons.org/ffmpeg/gray/white" width="32px" height="32px" alt="HTML">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/node.js" width="32px" height="32px" alt="HTML">
+<img src="https://cdn.simpleicons.org/node.js/gray/white" width="32px" height="32px" alt="HTML">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/insomnia" width="32px" height="32px" alt="HTML">
+<img src="https://cdn.simpleicons.org/insomnia/gray/white" width="32px" height="32px" alt="HTML">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/storybook" width="32px" height="32px" alt="HTML">
+<img src="https://cdn.simpleicons.org/storybook/gray/white" width="32px" height="32px" alt="HTML">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/zsh" width="32px" height="32px" alt="HTML">
+<img src="https://cdn.simpleicons.org/zsh/gray/white" width="32px" height="32px" alt="HTML">
 &nbsp;&nbsp;
 </p>
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/figma" width="32px" height="32px" alt="Figma">
+<img src="https://cdn.simpleicons.org/figma/gray/white" width="32px" height="32px" alt="Figma">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/adobephotoshop" width="32px" height="32px" alt="photoshop">
+<img src="https://cdn.simpleicons.org/adobephotoshop/gray/white" width="32px" height="32px" alt="photoshop">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/adobeillustrator" width="32px" height="32px" alt="illustrator">
+<img src="https://cdn.simpleicons.org/adobeillustrator/gray/white" width="32px" height="32px" alt="illustrator">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/adobexd" width="32px" height="32px" alt="xd">
+<img src="https://cdn.simpleicons.org/adobexd/gray/white" width="32px" height="32px" alt="xd">
 </p>
  
